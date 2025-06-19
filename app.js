@@ -107,7 +107,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "QUEEN-ELISA~qQEyzSQL#cXLnt1qHEw-NDbvNTgfIzMZ81TBy1e4IyOQG7lRfEA4",
       "required": true
     },  
 
